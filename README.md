@@ -31,4 +31,4 @@ Practical exercises and scripts for database design and management.
 This repository is a work in progress. I will be pushing new directories, notebooks, and projects here as I enroll in and complete future Udemy courses.
 
 ## 👨‍💻 Author
-**Carlos Daniel Torres Macias** *Intelligent Computing Engineering (ICI) Student*
+**Carlos Daniel Torres Macias** *Intelligent Computing Engineering (ICI)*
